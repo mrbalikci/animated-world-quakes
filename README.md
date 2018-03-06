@@ -40,4 +40,4 @@ Visualized the earthquake data as it takes place over a period of time.
 * D3.js
 
 ## The Image 
-![alt text](https://github.com/mrbalikci/world-quakes-tectonic-plates/blob/master/snip.PNG)
+![alt text](https://github.com/mrbalikci/animated-world-quakes/blob/master/snip.PNG)
